@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LilWyhimsy
+- 👋 Hi, I’m @LilWhimsy
 - 👀 I’m interested in games.
 - 🌱 I’m currently learning Java, Python and Rust.
 - ⚡ Fun fact: I like coffee.
